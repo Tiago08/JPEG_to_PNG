@@ -11,8 +11,8 @@ Pillow module
 I accomplished this task in two ways
 ### Using Terminal
 - Add the image in jpeg format with name as 'input' in this folder.
-- Run converter_terminal.py script
+- Run converter.py script
 - output image will be generated in this folder
 
 ### Using GUI
-Just run the converter_GUI.py script and pick any jpeg image from any location and then press 'Convert Jpeg to Png'
+Just run the GUI.py script and pick any jpeg image from any location and then press 'Convert Jpeg to Png'
